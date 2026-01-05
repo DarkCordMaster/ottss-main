@@ -1,6 +1,5 @@
 ## SAMSIK - 포인트 기반 게임 사이트
 
-![SAMSIK 메인 화면](images/samsik.png)
 
 개발 기간  
 2024.11 ~ 2024.12
